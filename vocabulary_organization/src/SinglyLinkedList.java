@@ -1,7 +1,4 @@
 /**
- * Houda Filali 40276607
- * Manel Hellou 40284245
- * 
  *Class SinglyLinkedList that represents singly linkedlist data to store the words
  *Each node contains a word and a reference to the next node
  */
